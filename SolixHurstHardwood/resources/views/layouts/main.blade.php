@@ -12,7 +12,7 @@
         <!---Container Fluid-->
       </div>
       <!-- Footer -->
-    {{-- @include('users.design.footer') --}}
+     @include('layouts.footer')
       <!-- Footer -->
     </div>
   </div>
