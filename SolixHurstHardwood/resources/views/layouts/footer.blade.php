@@ -13,7 +13,7 @@ body {
             overflow-y: auto; /* Enable vertical scrollbar when needed */
         }
         #footerMain {
-  position: fixed;
+
   bottom: 0;
   left: 0;
   width: 100%;
@@ -44,14 +44,14 @@ body {
 
 </head>
 <body>
-    <footer id="footerMain" class="siteFooter clearfix">
+    <footer id="footerMain">
       
             <div style="border-top: 1px solid #ccc; padding-top: 10px;">
                 <!-- Row div -->
                 <div class="row">
                   <!-- First column -->
                   <div class="col-md-3">
-                    <!-- Content for the first column -->
+                    <img src="{{ asset('images/logo.png') }}" alt="Logo">
                   </div>
                   <!-- Second column -->
                   <div class="col-md-3">

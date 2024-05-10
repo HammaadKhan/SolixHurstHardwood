@@ -43,10 +43,11 @@ body {
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-4">
-                    <a class="sitelogo" href="/">
-                        <img class="desktop" alt="Hurst Hardwoods" src="/cms/images/logo.png">
-                        <img class="mobile" alt="Hurst Hardwoods" src="/cms/images/logo-mobile.png">
-                    </a>
+                  
+                        <img src="{{ asset('images/logo.png') }}" alt="Logo">
+
+
+                  
                 </div>
                 <div class="col-md-8">
                     <div class="row"style="margin-top: 10px;">

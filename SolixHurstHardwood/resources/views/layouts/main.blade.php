@@ -10,9 +10,10 @@
         <!-- Container Fluid-->
      @yield('content')
         <!---Container Fluid-->
-      </div>
+     
       <!-- Footer -->
      @include('layouts.footer')
       <!-- Footer -->
     </div>
   </div>
+</div>
