@@ -76,19 +76,19 @@
         <img class="d-block w-100" src="{{ asset('images/hurst-hardwoods-wholesale-wood-flooring-hero.png') }}" alt="Third slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="{{ asset('images/logo.png') }}" alt="Fourth slide">
+        <img class="d-block w-100" src="{{ asset('images/May-2024---Free-Shipping-Banner---Hurst-Hardwoods-2.jpg') }}" alt="Fourth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="{{ asset('images/logo.png') }}" alt="Fifth slide">
+        <img class="d-block w-100" src="{{ asset('images/next-day-shipping-banner-hurst-hardwoods-hero.png') }}" alt="Fifth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="{{ asset('images/logo.png') }}" alt="Sixth slide">
+        <img class="d-block w-100" src="{{ asset('images/overstock-flooring-specials-HERO.png') }}" alt="Sixth slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="{{ asset('images/logo.png') }}" alt="Seventh slide">
+        <img class="d-block w-100" src="{{ asset('images/white-oak-live-sawn-unfinished-wood-flooring-best-seller-shop-now-HERO1.png') }}" alt="Seventh slide">
       </div>
       <div class="carousel-item">
-        <img class="d-block w-100" src="{{ asset('images/logo.png') }}" alt="Eighth slide">
+        <img class="d-block w-100" src="{{ asset('images/wide-plank-french-oak-wood-flooring-featured-on-zillow-by-hurst-hardwoods.png') }}" alt="Eighth slide">
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
